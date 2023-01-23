@@ -2,7 +2,7 @@
 layout: default
 title: Meyer Software
 description: Learn about Meyer software
-nav_order: 1
+nav_order: 3
 has_children: true
 ---
 
