@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Meyer Software
+title: Meyer software
 description: Learn about Meyer software
 nav_order: 3
 has_children: true
 ---
 
-# Software
+# Meyer software
