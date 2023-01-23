@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Ultra loudspeakers
-description: Learn about Meyer Ultra loudspeakers
+title: Ultra Series loudspeakers
+description: Learn about Meyer Ultra Series loudspeakers
 nav_order: 5
-parent: Loudspeakers
+parent: Meyer loudspeakers
 has_children: true
 ---
 
