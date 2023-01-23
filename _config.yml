@@ -8,7 +8,7 @@ url: ""
 remote_theme: coreyp69/just-the-docs
 logo: "/assets/images/work-logos.png"
 color_scheme: corey
-search_enabled: false
+search_enabled: true
 
 # Jekyll plugins
 plugins:
@@ -76,4 +76,3 @@ search:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-  
