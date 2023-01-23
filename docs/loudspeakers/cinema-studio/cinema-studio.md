@@ -1,11 +1,9 @@
 ---
 layout: default
-title: MAPP XT
-description: MAPP XT documentation
+title: Cinema/Studio
+description: Cinema and studio speakers
 nav_order: 5
-parent: Meyer Software
+parent: Loudspeakers
 ---
 
-# MAPP XT
-
-What is MAPP XT?
+# Cinema/Studio
