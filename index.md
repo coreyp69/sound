@@ -79,5 +79,5 @@ feature_rows:
 ---
 # Meyer Sound documentation
 {:.no_toc}
-Products listed alphabetically<br>
+Product Families<br>
 <sub><sup>Terms of use</sup></sub>
