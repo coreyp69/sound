@@ -1,14 +1,15 @@
 ---
 layout: default
-title: USW-112P Loudspeaker Operation
-description: USW-112P Loudspeaker Operation
-nav_order: 2
+title: USW-112P loudspeaker operation
+description: USW-112P loudspeaker operation
+nav_order: 1
 has_toc: true
 parent: Low frequency loudspeakers
 grand_parent: Meyer loudspeakers
 has_children: false
 ---
-# USW-112P Loudspeaker Operation
+
+# USW-112P loudspeaker operation
 {:.no_toc}
 ![](../assets/images/usw-112p/165b46cf1dd547e860ac688f16dc0b8c.png){:width="20%"}
 
