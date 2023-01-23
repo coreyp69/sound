@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home - Corey Plett portfolio
+title: Home - Meyer Sound documentation
 nav_order: 1
 has_toc: false
 
