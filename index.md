@@ -77,7 +77,7 @@ feature_rows:
     img_alt: "Migrating to Pure IP"
 
 ---
-# Corey Plett portfolio
+# Meyer Sound documentation
 {:.no_toc}
-A sampling of past content work<br>
-<sub><sup>Note: This site uses PDF files that require a modern desktop browser to display correctly.</sup></sub>
+Products listed alphabetically<br>
+<sub><sup>Terms of use</sup></sub>
