@@ -1016,7 +1016,6 @@ the cables exiting from the bottom. This angle shields the driver from the eleme
 
 To connect a PowerCON cable to the chassis, match the one wider notch on the cable connector to the corresponding one larger guide slot on the chassis.
 
-❙
 
 ![](../../../assets/images/usw-112p/890b84ff5f1c47dafd602da595c1b094.png){:width="30%"}
 
@@ -1028,15 +1027,13 @@ To connect a PowerCON cable to the chassis, match the one wider notch on the cab
 
 #### Horizontal tilt
 
-❙
-
 does not enter from the port and accumulate in the cabinet ([Figure 5](#_bookmark73)).
 
 ![](../../../assets/images/usw-112p/c47d3e39d44d6f022d8327ab05c24201.png){:width="50%"}
 
-![](../../../assets/images/usw-112p/b09787c3dc697afdeff220848d35da67.png){:width="50%"}
+![](../../../assets/images/usw-112p/b09787c3dc697afdeff220848d35da67.png){:width="30%"}
 
-![](../../../assets/images/usw-112p/dc6a732ba6318c1f4303215d3db2d8cb.png){:width="50%"}
+![](../../../assets/images/usw-112p/dc6a732ba6318c1f4303215d3db2d8cb.png){:width="30%"}
 
 ![](../../../assets/images/usw-112p/e71050a7b02c0a393fd8d6c3f0e325c1.png){:width="50%"}
 
@@ -1183,11 +1180,11 @@ Load rating 5:1: 45 lb [20.4 kg] (1 USW-112P or USW-112XP)
 
 [114 mm]
 
-6x ![](../../../assets/images/usw-112p/c3fdf154687becb1fa3621a39a8de9c7.png){:width="10%"} 0.28 in
+6x 0.28 in
 
 [7 mm]
 
-3x ![](../../../assets/images/usw-112p/dd887d08e7b3959a96022d1861736516.png){:width="10%"} 0.55 in
+3x 0.55 in
 
 [14 mm]
 
