@@ -5,7 +5,7 @@ description: USW-112P loudspeaker operation
 nav_order: 5
 has_toc: true
 parent: Low frequency loudspeakers
-grand_parent: Meyer loudspeakers
+grand_parent: Meyer Sound loudspeakers
 has_children: false
 ---
 

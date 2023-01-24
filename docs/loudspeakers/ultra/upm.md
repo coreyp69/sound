@@ -7,4 +7,4 @@ parent: Ultra series loudspeakers
 grand_parent: Meyer loudspeakers
 ---
 
-# UPM loudspeakers
+# UPM Sound loudspeakers

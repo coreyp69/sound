@@ -4,7 +4,7 @@ title: ULTRA-X20 loudspeakers
 description: ULTRA-X20 loudspeakers
 nav_order: 5
 parent: Ultra series loudspeakers
-grand_parent: Meyer loudspeakers
+grand_parent: Meyer Sound loudspeakers
 ---
 
 # ULTRA-X20 loudspeakers

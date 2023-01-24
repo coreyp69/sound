@@ -4,7 +4,7 @@ title: LEOPARD line array loudspeaker
 description: LEOPARD line array loudspeaker
 nav_order: 2
 parent: Line array loudspeakers
-grand_parent: Meyer loudspeakers
+grand_parent: Meyer Sound loudspeakers
 ---
 
 # LEOPARD line array loudspeaker
