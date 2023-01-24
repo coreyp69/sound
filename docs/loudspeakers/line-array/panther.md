@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Panther line array loudspeaker
-description: Panther line array loudspeaker
+title: PANTHER line array loudspeaker
+description: PANTHER line array loudspeaker
 nav_order: 5
 parent: Line array loudspeakers
 grand_parent: Meyer loudspeakers
 ---
 
-# Panther line array loudspeaker
+# PANTHER line array loudspeaker
