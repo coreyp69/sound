@@ -770,7 +770,7 @@ Compass RMS™ software provides extensive system status and performance data fo
 
 Loudspeakers are added to the RMS network and assigned a node name during a one-time discovery procedure. Once loudspeakers are identified on the RMS network, they appear in Compass RMS as icons that can be customized to suit your needs ([Figure 27](#_bookmark51)).
 
-![](../../../assets/images/usw-112p/2d8f84eb5e4378703e3d35d18486d6bd.jpeg){:width="50%"}
+![](../../../assets/images/usw-112p/2d8f84eb5e4378703e3d35d18486d6bd.jpeg)
 
 *Figure 27: Compass RMS Window*
 
@@ -1046,7 +1046,7 @@ does not enter from the port and accumulate in the cabinet ([Figure 5](#_bookmar
 
 ![](../../../assets/images/usw-112p/15a16098b9cf5d86f36d0c1303c4a459.png){:width="10%"}
 
-![](../../../assets/images/usw-112p/ce8ca5ef4b2ba7b74aa94e9745c37ca9.png){:width="50%"}
+![](../../../assets/images/usw-112p/ce8ca5ef4b2ba7b74aa94e9745c37ca9.png){:width="10%"}
 
 After inserting properly as indicated in Figure 6 (top left), twist the cable connector clockwise to lock ([Figure 7](#_bookmark74)).
 
@@ -1183,11 +1183,11 @@ Load rating 5:1: 45 lb [20.4 kg] (1 USW-112P or USW-112XP)
 
 [114 mm]
 
-6x ![](../../../assets/images/usw-112p/c3fdf154687becb1fa3621a39a8de9c7.png){:width="30%"} 0.28 in
+6x ![](../../../assets/images/usw-112p/c3fdf154687becb1fa3621a39a8de9c7.png){:width="10%"} 0.28 in
 
 [7 mm]
 
-3x ![](../../../assets/images/usw-112p/dd887d08e7b3959a96022d1861736516.png){:width="30%"} 0.55 in
+3x ![](../../../assets/images/usw-112p/dd887d08e7b3959a96022d1861736516.png){:width="10%"} 0.55 in
 
 [14 mm]
 
