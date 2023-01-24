@@ -6,15 +6,15 @@ has_toc: false
 
 feature_rows:
   - title: "Meyer loudspeakers"
-    excerpt: "From stadium to studio"
+    excerpt: "From stadium, to cinema, to studio"
     url: "/docs/loudspeakers"
     img_path: "p-hero.gif"
     img_alt: "PANTHER line array element"
-  - title: "JDBC driver"
-    excerpt: "Firebolt"
+  - title: "Meyer software"
+    excerpt: "System configuration and control"
     url: "/docs/2.html"
-    img_path: "2-firebolt-jdbc.png"
-    img_alt: "Using the JDBC driver"
+    img_path: "software.gif"
+    img_alt: "Monitoring with Compass RMS "
   
 ---
 # Meyer Sound documentation
