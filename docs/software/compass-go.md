@@ -3,9 +3,7 @@ layout: default
 title: Compass Go
 description: Compass Go documentation
 nav_order: 2
-parent: Meyer Software
+parent: Meyer software
 ---
 
 # Compass Go
-
-What is Compass Go?

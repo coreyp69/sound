@@ -3,9 +3,7 @@ layout: default
 title: Nebra
 description: Nebra documentation
 nav_order: 7
-parent: Meyer Software
+parent: Meyer software
 ---
 
 # Nebra
-
-What is Nebra?

@@ -3,9 +3,7 @@ layout: default
 title: Compass
 description: Compass documentation
 nav_order: 1
-parent: Meyer Software
+parent: Meyer software
 ---
 
 # Compass
-
-What is Compass?
