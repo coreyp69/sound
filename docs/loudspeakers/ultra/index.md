@@ -7,4 +7,4 @@ parent: Meyer Sound loudspeakers
 has_children: true
 ---
 
-# Ultra loudspeakers
+# Ultra Series loudspeakers
