@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Acheron screen channel loudspeaker
+title: Amie Systems
 description: Acheron screen channel loudspeaker
-nav_order: 1
+nav_order: 2
 parent: Cinema/Studio loudspeakers
 grand_parent: Meyer loudspeakers
 ---
 
-# Acheron screen channel loudspeaker
+# Amie Systems
