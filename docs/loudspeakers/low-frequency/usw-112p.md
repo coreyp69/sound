@@ -2,7 +2,7 @@
 layout: default
 title: USW-112P loudspeaker operation
 description: USW-112P loudspeaker operation
-nav_order: 1
+nav_order: 5
 has_toc: true
 parent: Low frequency loudspeakers
 grand_parent: Meyer loudspeakers
@@ -11,9 +11,9 @@ has_children: false
 
 # USW-112P loudspeaker operation
 {:.no_toc}
-![](../assets/images/usw-112p/165b46cf1dd547e860ac688f16dc0b8c.png){:width="20%"}
+![](../../assets/images/usw-112p/165b46cf1dd547e860ac688f16dc0b8c.png){:width="20%"}
 
-![](../assets/images/usw-112p/e81d0fa87cba6e9f504ad58cc1f18ef1.jpeg){:width="50%"}
+![](../../assets/images/usw-112p/e81d0fa87cba6e9f504ad58cc1f18ef1.jpeg){:width="50%"}
 
 #### In this topic
 {:.no_toc}
@@ -28,7 +28,7 @@ Designed to be the ideal companion to Meyer Sound’s ULTRA-X20, it also complem
 
 The USW-112P has an operating frequency range of 35–140 Hz with a linear peak SPL of 123 dB. The bass reflex cabinet employs a low-velocity port design for high efficiency and low port distortion.
 
-![](media/59a23c7a4348496623424102971d3e7a.png){:width="50%"}
+![](../../assets/images/59a23c7a4348496623424102971d3e7a.png){:width="50%"}
 
 *USW-112P with Front Grille Removed*
 
@@ -36,7 +36,7 @@ The cabinet houses a Class D power amplifier with signal processing including co
 
 The amplifier/processing package incorporates Meyer Sound’s Intelligent AC™, which auto-selects the correct operating voltage, suppresses high voltage transients, filters EMI and provides soft-start power-up. Audio connectors are XLR (analog version) or etherCON (Milan™ Certified digital version) , and power input and looping output connectors are PowerCON 20 (analog version) or PowerCON TRUE1 TOP (digital and weather-protected models).
 
-![](../assets/images/usw-112p/4b3fba9de5422d145097a44718bef367.jpeg){:width="50%"}
+![](../../assets/images/usw-112p/4b3fba9de5422d145097a44718bef367.jpeg){:width="50%"}
 
 *USW-112P Rear View (Analog Version)*
 
@@ -50,23 +50,23 @@ Meyer Sound builds the USW-112P cabinet from premium birch plywood coated with a
 
 With its versatile shape, the USW-112P can be placed on the ground in a horizontal or vertical position to accommodate installation requirements.
 
-![](media/d8f1e69a4d468c98dc076eae4a86870e.png){:width="50%"}
+![](../../assets/images/usw-112p/d8f1e69a4d468c98dc076eae4a86870e.png){:width="50%"}
 
 *USW-112P with MUB-USW-112P in Horizontal Position*
 
 The USW-112P comes standard with M8 mounting points at the top and bottom for use with the optional U-bracket that enables wall, ceiling, or truss mounting. It also features an integral 35 mm pole mount receptacle with M20 threads for added stability.
 
-![](../assets/images/usw-112p/9880d12d4c62f47bd0cf8570aaa59182.png){:width="50%"}
+![](../../assets/images/usw-112p/9880d12d4c62f47bd0cf8570aaa59182.png){:width="50%"}
 
 *USW-112P with MUB-USW-112P in Ceiling Mount Position*
 
-![](../assets/images/usw-112p/9c78f37cf33e304f9cb8d3c843188be7.png){:width="50%"}*INTRODUCTION*
+![](../../assets/images/usw-112p/9c78f37cf33e304f9cb8d3c843188be7.png){:width="50%"}*INTRODUCTION*
 
-![](../assets/images/usw-112p/777aefb4dc1853d4dfe6fb08a33c0b94.png){:width="50%"}
+![](../../assets/images/usw-112p/777aefb4dc1853d4dfe6fb08a33c0b94.png){:width="50%"}
 
 *USW-112P with MUB-USW-112P in Vertical Wall Mount Position*
 
-![](../assets/images/usw-112p/b15ef28bff8974cf7fed1815249f7a5e.png){:width="50%"}
+![](../../assets/images/usw-112p/b15ef28bff8974cf7fed1815249f7a5e.png){:width="50%"}
 
 *USW-112P with Eye Bolt*
 
@@ -186,7 +186,7 @@ would exceed the upper voltage limit (275 V AC) and will damage the loudspeaker.
 
 The USW-112P user panel includes two powerCON 20 connectors, one for AC Input (blue) and one for AC Loop Output (gray).
 
-![](../assets/images/usw-112p/23e67d77581785a58996e8dbce9bfbe7.jpeg){:width="50%"}{:.rounded.shadow}
+![](../../assets/images/usw-112p/23e67d77581785a58996e8dbce9bfbe7.jpeg){:width="50%"}{:.rounded.shadow}
 
 *Figure 4: AC Input (Left) and AC Loop Output (Right) Connectors*
 
@@ -198,7 +198,7 @@ True1 TOP cable connectors or with the sealing cap in place when the chassis con
 
 **CAUTION:** Ensure the rubber sealing cover is in place when either connector (input or loop) is not in use.
 
-![](../assets/images/usw-112p/72de29f662b561a15fd62b7e7ff59e86.jpeg){:width="50%"}
+![](../../assets/images/usw-112p/72de29f662b561a15fd62b7e7ff59e86.jpeg){:width="50%"}
 
 *Figure 5: PowerCON TRUE1 TOP Connector Panel (Covers Open)*
 
@@ -232,9 +232,9 @@ The pins on the powerCON 20 cable mount connector are labeled as follows:
 
 SIDE FRONT REAR
 
-![](../assets/images/usw-112p/8a75279ee05ecf2a4fe911fcad798406.png){:width="30%"}
+![](../../assets/images/usw-112p/8a75279ee05ecf2a4fe911fcad798406.png){:width="30%"}
 
-![](../assets/images/usw-112p/589bbf86e3e13a139e3deac8d89bded8.png){:width="10%"}L PE
+![](../../assets/images/usw-112p/589bbf86e3e13a139e3deac8d89bded8.png){:width="10%"}L PE
 
 N
 
@@ -436,7 +436,7 @@ In contrast, TruPower limiting anticipates varying driver impedances by measurin
 
 The USW-112P user panel ([Figure 8](#_bookmark26)) includes Input and Loop output connectors for audio, a combined Limit and On/Status LED, and optional RMS connectors and controls (see [Chapter 5, “RMS Remote Monitoring System”](#_bookmark48)).
 
-![](../assets/images/usw-112p/d8fb0273d96dc0b032f2652a3180d040.jpeg){:width="50%"}
+![](../../assets/images/usw-112p/d8fb0273d96dc0b032f2652a3180d040.jpeg){:width="50%"}
 
 *Figure 8: USW-112P User Panel (5-pin XLR and optional RMS)*
 
@@ -448,11 +448,11 @@ See [“USW-112P Specifications” on page 33](#_bookmark77).
 
 USW-112P is available with XLR 5-pin (F[igure 9](#_bookmark28)) or 3-pin connectors ([Figure 10](#_bookmark29)) for audio Input and audio Loop output. XLR 5-pin connectors accommodate both balanced audio and RMS signals.
 
-![](../assets/images/usw-112p/e3a918c40b1f085a54ed07ea4abc4e1b.jpeg){:width="50%"}{:.rounded.shadow}
+![](../../assets/images/usw-112p/e3a918c40b1f085a54ed07ea4abc4e1b.jpeg){:width="50%"}{:.rounded.shadow}
 
 *Figure 9: XLR 5-Pin Audio Connectors, Input and Loop Output*
 
-![](../assets/images/usw-112p/(media/6f9bf00b3c4761c692bc45f212268a12.jpeg){:width="50%"}
+![](../../assets/images/usw-112p/(media/6f9bf00b3c4761c692bc45f212268a12.jpeg){:width="50%"}
 
 *Figure 10: XLR 3-Pin Audio Connectors, Input and Loop Output*
 
@@ -509,7 +509,7 @@ The weather-protected analog audio units are equipped with 3-pin XLR TOP connect
 
 >   connector or with the sealing cap in place when the chassis connector is not in use.
 
-![](../assets/images/usw-112p/f1950bc561f7399f215c6d05fa039d12.jpeg){:width="50%"}{:.rounded.shadow}
+![](../../assets/images/usw-112p/f1950bc561f7399f215c6d05fa039d12.jpeg){:width="50%"}{:.rounded.shadow}
 
 >   *Figure 11: Weather-Protected Loudspeakers Have 3-pin XLR TOP Connectors*
 
@@ -517,7 +517,7 @@ The weather-protected analog audio units are equipped with 3-pin XLR TOP connect
 
 >   During normal operation, when USW-112P is powered on, the shared Limit and On/Status LED is solid green (see ON/STATUS on this page for fault conditions). The low-frequency driver for USW-112P is powered by an plifier channel with a limiter. Limiting activity is indicated by the Limit and On/Status LED illuminating yellow on the user panel ([Figure 12](#_bookmark32)).
 
-![](../assets/images/usw-112p/8e970dea262efb501f552e95d4861c42.jpeg){:width="50%"}{:.rounded.shadow}
+![](../../assets/images/usw-112p/8e970dea262efb501f552e95d4861c42.jpeg){:width="50%"}{:.rounded.shadow}
 
 *Figure 12: USW-112P Limit LED*
 
@@ -557,7 +557,7 @@ speaker’s hardware status and operating temperature. For more information, see
 
 The USW-112P Digital version user panel (also referred to as the Type 3M Audio Input Module, Figure 13) includes an etherCON TOP for audio input, an Ethernet/Network connectivity LED, an On/Status LED, and a Wink button/LED.
 
-![](../assets/images/usw-112p/8b3ada491a9737fb1fbf2dcd50294cd4.jpeg){:width="50%"}
+![](../../assets/images/usw-112p/8b3ada491a9737fb1fbf2dcd50294cd4.jpeg){:width="50%"}
 
 *Figure 13: USW-112P User Panel (with etherCON TOP)*
 
@@ -571,7 +571,7 @@ The Milan Endpoint loudspeaker has an etherCON TOP chassis connector.
 
 connector or with the sealing cap in place when the chassis connector is not in use.
 
-![](../assets/images/usw-112p/a9eec07cad7ea5c6726eb4d02f8ef857.jpeg){:width="50%"}
+![](../../assets/images/usw-112p/a9eec07cad7ea5c6726eb4d02f8ef857.jpeg){:width="50%"}
 
 *Figure 14: etherCON TOP Audio Input*
 
@@ -585,7 +585,7 @@ Once the Milan Endpoint loudspeaker has been configured into a network in Compas
 
 Pressing this icon will turn it green and cause the Wink push button of the associated loudspeaker to illuminate at the center.
 
-![](../assets/images/usw-112p/10dc95450593eed022504b19f961d6ed.jpeg){:width="50%"}{:.rounded.shadow}
+![](../../assets/images/usw-112p/10dc95450593eed022504b19f961d6ed.jpeg){:width="50%"}{:.rounded.shadow}
 
 *Figure 16: Result of Pressing Wink Button on Rear of Loudspeaker*
 
@@ -673,7 +673,7 @@ The MUB-USW-112 U-Bracket (PN 40.298.050.01) allows a single USW-112P loudspeake
 
 Front
 
-![](../assets/images/usw-112p/063a5e48b41e5e22ec3cbc482434aa4d.png){:width="50%"}
+![](../../assets/images/usw-112p/063a5e48b41e5e22ec3cbc482434aa4d.png){:width="50%"}
 
 Top M8 Rigging Point Bottom M8 Rigging Point
 
@@ -718,7 +718,7 @@ U-bracket, the U-bracket must be secured to the mounting surface with one of the
 
 *Figure 23: MUB-USW-112 Wall Mount, Vertical*
 
-![](../assets/images/usw-112p/523a155f5271f9132547e970505e042e.png){:width="50%"}
+![](../../assets/images/usw-112p/523a155f5271f9132547e970505e042e.png){:width="50%"}
 
 *Figure 24: MUB-USW-112 Ceiling Mount*
 
@@ -770,7 +770,7 @@ Compass RMS™ software provides extensive system status and performance data fo
 
 Loudspeakers are added to the RMS network and assigned a node name during a one-time discovery procedure. Once loudspeakers are identified on the RMS network, they appear in Compass RMS as icons that can be customized to suit your needs ([Figure 27](#_bookmark51)).
 
-![](../assets/images/usw-112p/2d8f84eb5e4378703e3d35d18486d6bd.jpeg){:width="50%"}
+![](../../assets/images/usw-112p/2d8f84eb5e4378703e3d35d18486d6bd.jpeg){:width="50%"}
 
 *Figure 27: Compass RMS Window*
 
@@ -784,7 +784,7 @@ The USW-112P RMS user panel ([Figure 28](#_bookmark53)) includes a Wink/ Activit
 
 [Figure 8 on page 11](#_bookmark27).)
 
-![](../assets/images/usw-112p/01a134612eade22a539ba5d06cc63ae3.jpeg){:width="50%"}
+![](../../assets/images/usw-112p/01a134612eade22a539ba5d06cc63ae3.jpeg){:width="50%"}
 
 *Figure 28: USW-112P RMS Module*
 
@@ -821,7 +821,7 @@ Conversely, if the Wink button on the
 
 USW-112P Digital loudspeaker is pressed, a winking happy face is displayed on the associated loudspeaker page in Compass (Figure 30).
 
-![](../assets/images/usw-112p/c68548c7cc4a1f99f6d08e2fcbf1c63b.jpeg){:width="50%"}{:.rounded.shadow}
+![](../../assets/images/usw-112p/c68548c7cc4a1f99f6d08e2fcbf1c63b.jpeg){:width="50%"}{:.rounded.shadow}
 
 *Figure 30: Result of Pressing Wink Button on Rear of Loudspeaker*
 
@@ -833,7 +833,7 @@ This chapter introduces MAPP, Meyer Sound’s patented system design tool and th
 
 The MAPP System Design Tool (Figure 31) is a powerful, cross-platform application for accurately predicting the coverage pattern, frequency response, phase response, impulse response, and SPL capability of individual or arrayed Meyer Sound loudspeakers.
 
-![](../assets/images/usw-112p/113786d96bbae21604d5cb3f34d0e403.png)
+![](../../assets/images/usw-112p/113786d96bbae21604d5cb3f34d0e403.png)
 
 *Figure 31: MAPP System Design Tool*
 
@@ -998,9 +998,9 @@ USW-112P loudspeaker must be mounted with a 0° tilt, or preferably with a sligh
 
 the cables exiting from the bottom. This angle shields the driver from the elements and does not allow water to accumulate in the cabinet. Do not tilt the cabinet up, as the drivers and cabinet will accumulate water. ([Figure 3](#_bookmark70) and [Figure 4](#_bookmark72)).
 
-![](media/389f98adec4c46ef3f4d699a78910eab.png){:width="50%"}
+![](../../assets/images/usw-112p/389f98adec4c46ef3f4d699a78910eab.png){:width="50%"}
 
-![](media/5d0c87458f349b1869361a719a02f447.png){:width="50%"}
+![](../../assets/images/usw-112p/5d0c87458f349b1869361a719a02f447.png){:width="50%"}
 
 *Figure 1: Only Permissible Vertical Orientation*
 
@@ -1010,17 +1010,17 @@ the cables exiting from the bottom. This angle shields the driver from the eleme
 
 ### PowerCON TRUE1 top connection
 
-![](../assets/images/usw-112p/37d2132d6460bf16c4e9a9888de24267.png){:width="30%"}
+![](../../assets/images/usw-112p/37d2132d6460bf16c4e9a9888de24267.png){:width="30%"}
 
-![](../assets/images/usw-112p/dfa0882244fb835f6882e36b31e86518.png){:width="30%"}
+![](../../assets/images/usw-112p/dfa0882244fb835f6882e36b31e86518.png){:width="30%"}
 
 To connect a PowerCON cable to the chassis, match the one wider notch on the cable connector to the corresponding one larger guide slot on the chassis.
 
 ❙
 
-![](../assets/images/usw-112p/890b84ff5f1c47dafd602da595c1b094.png){:width="30%"}
+![](../../assets/images/usw-112p/890b84ff5f1c47dafd602da595c1b094.png){:width="30%"}
 
-![](../assets/images/usw-112p/fd3ec87f16ec04c6ffbdf5f71c27a0a5.png){:width="30%"}
+![](../../assets/images/usw-112p/fd3ec87f16ec04c6ffbdf5f71c27a0a5.png){:width="30%"}
 
 ![](media/5c18c52dc464e4ed6606fc671d7400fb.png){:width="30%"}
  
@@ -1032,11 +1032,11 @@ To connect a PowerCON cable to the chassis, match the one wider notch on the cab
 
 does not enter from the port and accumulate in the cabinet ([Figure 5](#_bookmark73)).
 
-![](../assets/images/usw-112p/c47d3e39d44d6f022d8327ab05c24201.png){:width="50%"}
+![](../../assets/images/usw-112p/c47d3e39d44d6f022d8327ab05c24201.png){:width="50%"}
 
-![](media/b09787c3dc697afdeff220848d35da67.png){:width="50%"}
+![](../../assets/images/usw-112p/b09787c3dc697afdeff220848d35da67.png){:width="50%"}
 
-![](media/dc6a732ba6318c1f4303215d3db2d8cb.png){:width="50%"}
+![](../../assets/images/usw-112p/dc6a732ba6318c1f4303215d3db2d8cb.png){:width="50%"}
 
 ![](../assets/images/usw-112p/e71050a7b02c0a393fd8d6c3f0e325c1.png){:width="50%"}
 
@@ -1046,7 +1046,7 @@ does not enter from the port and accumulate in the cabinet ([Figure 5](#_bookmar
 
 ![](../assets/images/usw-112p/15a16098b9cf5d86f36d0c1303c4a459.png){:width="10%"}
 
-![](media/ce8ca5ef4b2ba7b74aa94e9745c37ca9.png){:width="50%"}
+![](../../assets/images/usw-112p/ce8ca5ef4b2ba7b74aa94e9745c37ca9.png){:width="50%"}
 
 After inserting properly as indicated in Figure 6 (top left), twist the cable connector clockwise to lock ([Figure 7](#_bookmark74)).
 
@@ -1112,7 +1112,7 @@ After inserting properly as indicated in Figure 6 (top left), twist the cable co
 
 | **ENVIRONMENTAL**         |                                                                                                                                                                                                                                       |                                                          |
 |---------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------|
-| Operating Temperature     | 0 °C to +45 °C                                                                                                                                                                                                                        |          ![](../assets/images/usw-112p/c978c112574a83c0adfaeeba3e86be23.png){:width="50%"} |
+| Operating Temperature     | 0 °C to +45 °C                                                                                                                                                                                                                        |          ![](../../assets/images/usw-112p/c978c112574a83c0adfaeeba3e86be23.png){:width="50%"} |
 | Non Operating Temperature | –40 °C to +75 °C                                                                                                                                                                                                                      |                                                          |
 | Humidity                  | To 95% at 45 °C (non-condensing)                                                                                                                                                                                                      |                                                          |
 | Operating Altitude        | To 5,000 m (16,404 ft)                                                                                                                                                                                                                |                                                          |
@@ -1143,7 +1143,7 @@ After inserting properly as indicated in Figure 6 (top left), twist the cable co
 
 >   Top
 
-![](../assets/images/usw-112p/9f4a69ba1d3f362c68a32bde25065529.png){:width="30%"} 
+![](../../assets/images/usw-112p/9f4a69ba1d3f362c68a32bde25065529.png){:width="30%"} 
 
 M8 Rigging Points
 
@@ -1183,11 +1183,11 @@ Load rating 5:1: 45 lb [20.4 kg] (1 USW-112P or USW-112XP)
 
 [114 mm]
 
-6x ![](../assets/images/usw-112p/c3fdf154687becb1fa3621a39a8de9c7.png){:width="30%"} 0.28 in
+6x ![](../../assets/images/usw-112p/c3fdf154687becb1fa3621a39a8de9c7.png){:width="30%"} 0.28 in
 
 [7 mm]
 
-3x ![](../assets/images/usw-112p/dd887d08e7b3959a96022d1861736516.png){:width="30%"} 0.55 in
+3x ![](../../assets/images/usw-112p/dd887d08e7b3959a96022d1861736516.png){:width="30%"} 0.55 in
 
 [14 mm]
 
@@ -1195,6 +1195,6 @@ Load rating 5:1: 45 lb [20.4 kg] (1 USW-112P or USW-112XP)
 
 [608 mm]
 
-![](../assets/images/usw-112p/a807200b9fb61192b1ae1e34f36cbe84.png){:width="20%"}
+![](../../assets/images/usw-112p/a807200b9fb61192b1ae1e34f36cbe84.png){:width="20%"}
 
 
