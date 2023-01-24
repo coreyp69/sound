@@ -42,9 +42,9 @@ search:
 
 # Link in upper right
 
-# aux_links:
-#   "":
-#     - ""
+aux_links:
+  "The Meyer Sound Philosophy":
+    - "https://meyersound.com/about/"
 
 # Google Analytics tracking
 # ga_tracking: UA-142599515-1
