@@ -3,7 +3,7 @@ layout: default
 title: UPM loudspeakers
 description: UPM loudspeakers
 nav_order: 8
-parent: Ultra series loudspeakers
+parent: Ultra Series loudspeakers
 grand_parent: Meyer loudspeakers
 ---
 

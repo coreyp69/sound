@@ -3,7 +3,7 @@ layout: default
 title: ULTRA-X20 loudspeakers
 description: ULTRA-X20 loudspeakers
 nav_order: 5
-parent: Ultra series loudspeakers
+parent: Ultra Series loudspeakers
 grand_parent: Meyer Sound loudspeakers
 ---
 
