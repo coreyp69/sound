@@ -8,7 +8,7 @@ feature_rows:
   - title: "Meyer loudspeakers"
     excerpt: "From stadium to studio"
     url: "/docs/loudspeakers"
-    img_path: "panther_full.jpg"
+    img_path: "p-hero.gif"
     img_alt: "PANTHER line array element"
   - title: "JDBC driver"
     excerpt: "Firebolt"
