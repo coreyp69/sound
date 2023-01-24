@@ -5,12 +5,12 @@ nav_order: 1
 has_toc: false
 
 feature_rows:
-  - title: "Meyer loudspeakers"
+  - title: "Loudspeakers"
     excerpt: "From stadium, to cinema, to studio"
     url: "/docs/loudspeakers"
     img_path: "p-hero.gif"
     img_alt: "PANTHER line array element"
-  - title: "Meyer software"
+  - title: "Software"
     excerpt: "System configuration and control"
     url: "/docs/software"
     img_path: "software.gif"
