@@ -5,7 +5,7 @@ nav_order: 1
 has_toc: false
 
 feature_rows:
-  - title: "Loudspeakers"
+  - title: "Meyer loudspeakers"
     excerpt: "From stadium to studio"
     url: "/docs/loudspeakers"
     img_path: "panther_full.jpg"
